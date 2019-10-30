@@ -11,7 +11,6 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-
 import java.io.File;
 import java.io.IOException;
 import java.io.OutputStream;
