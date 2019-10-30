@@ -15,7 +15,6 @@ import java.io.File;
 import java.io.IOException;
 import java.io.OutputStream;
 
-
 public class ClipImageActivity extends Activity {
 
     private ImageView mIvBack;
